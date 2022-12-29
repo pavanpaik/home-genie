@@ -1,5 +1,4 @@
 # Home Geinie Application
-
 This application is Home Genie smart application. This is hosted [here](https://home-genie-6fc05.web.app) for preview and the below instructions are tested for a stable development workflow.
 
 ## Getting Started
